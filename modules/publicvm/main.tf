@@ -1,4 +1,4 @@
-# create o=public (means on sub1) vm
+# create public (means on sub1) vm
 # please note that the module create as many vms as there are in var.sub1vms
 # made this way to make testing of other (but similar) prototypes easier 
 # for example putting a few vms on sub1
