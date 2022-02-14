@@ -1,4 +1,4 @@
-# creates cloud + cloud router
+# creates cloud nat + cloud router
 module "cloud-nat" {
   source     = "terraform-google-modules/cloud-nat/google"
   version    = "~> 1.2"
